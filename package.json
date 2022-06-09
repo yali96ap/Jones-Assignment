@@ -1,0 +1,23 @@
+{
+  "name": "jones",
+  "version": "1.0.0",
+  "description": "form filling Automation for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "/Users/a/Desktop/jones/node_modules/mocha/bin --timeout=30000 ./tests"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Mocha",
+    "Chai",
+    "Automation"
+  ],
+  "author": "YP",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "prettier": "^2.6.2",
+    "puppeteer": "^14.2.1"
+  }
+}
